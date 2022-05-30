@@ -3,7 +3,7 @@
  * printocta - prints a hexadecimal
  * @format: format to print hexadecimal
  * @pa: list that contains the hexadecimal
- * Return: number.
+ * Return: number..
  */
 int printocta(char *format, va_list pa)
 {
