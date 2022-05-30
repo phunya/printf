@@ -2,7 +2,7 @@
 /**
  * _abs - calculates the absolute value.
  * @number: input.
- * Return: value.
+ * Return: value..
  */
 int _abs(int number)
 {
