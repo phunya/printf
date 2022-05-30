@@ -3,7 +3,7 @@
 /**
  * digit_count - counts the digits.
  * @number: input int_count
- * Return: digit count
+ * Return: digit count.
  */
 int digit_count(unsigned int number)
 {
