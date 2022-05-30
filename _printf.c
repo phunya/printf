@@ -3,7 +3,7 @@
 /**
  * _printf - print anything with formating
  *@format: pointer
- * Return: On success.
+ * Return: On success..
  */
 int _printf(char *format, ...)
 {
