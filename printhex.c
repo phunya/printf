@@ -2,7 +2,7 @@
 /**
  * printhex - prints a hexadecimal
  * @format: format to print hexadecimal
- * @pa: list that contains the hexadecimal
+ * @pa: list that contains the hexadecimal.
  * Return: number.
  */
 int printhex(char *format, va_list pa)
