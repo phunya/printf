@@ -1,5 +1,5 @@
-#ifndef MAIN
-#define MAIN
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h>
 #include <stddef.h>
@@ -37,4 +37,4 @@ int print_usignedint(char *format, va_list pa);
 int int_count(unsigned int number);
 int digit_count(unsigned int number);
 
-#endif
+#endif /* MAIN_H */
